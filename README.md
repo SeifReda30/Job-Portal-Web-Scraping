@@ -14,6 +14,6 @@ You Should install Python 3 and beautifulsoup4 Library
 pip install beautifulsoup4
 ```
 ## **Note**
-For Getting More Results, Specify The Number of Pages you need to extract in the Extracting Function according to The Number of Pages at the Website 
+For Getting More Results, Specify The Number of Pages (NoOfPages) you need to extract in the Code according to The Number of Pages at the Website 
 
 
