@@ -6,7 +6,7 @@ Python Script to Scrape All Data Analyst Jobs data Posted on [Wuzzuf](https://wu
 Extracted Data are : Job Title, Company Name, Company Address, Job Time, Job Level, Job Link and The period of time which the job was posted which is converted to Post Date
 
 ## Result Table Sample
-![alt text](https://i.ibb.co/MR6zYbr/Screenshot-2022-08-25-134832.png)
+![alt text](https://i.ibb.co/Qkts1Pt/0001.jpg)
 
 ## Installation
 You Should install Python 3 and beautifulsoup4 Library
